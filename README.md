@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @razatshubham
-- 👀 I’m interested in DAta Analyst
+- 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning .Data Analyst
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via mail or whatsapp
